@@ -1,0 +1,12 @@
+{
+  "name": "studio-q-website",
+  "description": "Studio Q Website - A professional photography and video production studio website",
+  "repository": "https://github.com/tedueda/bolt-studioq2.git",
+  "branch": "main",
+  "framework": "html-css-js",
+  "category": "business",
+  "tags": ["photography", "video", "production", "studio", "portfolio"],
+  "screenshot": "images/studioq_logo.png",
+  "deploymentType": "static",
+  "mainFile": "index.html"
+}
